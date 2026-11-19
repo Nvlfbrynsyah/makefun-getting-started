@@ -156,6 +156,11 @@ The full reward is locked in an on-chain escrow on Solana. You can inspect the [
 
 The score counts verified human signups via your referral link. A click by itself isn't a verified signup.
 
+### How do I know if a signup counted?
+
+Only verified human signups count. The board shows the verified count as the house check verifies each signup;
+a click alone is not a signup.
+
 ## Ready to try it?
 
 [Create your make.fun account](https://make.fun/r/x2bhbzsv), then open a bounty and write down what a finished
